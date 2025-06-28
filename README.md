@@ -74,6 +74,13 @@ Figma stands out because:
 
 ---
 
+
+## Example
+[🔗 Click here to open the wireframes in Figma](https://www.figma.com/design/hO9fGpY08iL6ANHzEgzFo0/Untitled?node-id=0-1&t=GMYLTqy2czZ0kHKC-1)
+
+---
+
+
 ## ✅ Benefits of Wireframing in Software Development
 
 Wireframing offers numerous benefits throughout the development lifecycle:
@@ -111,5 +118,6 @@ Wireframing ensured that usability issues were spotted **before** development be
 Wireframing isn’t just a design step — it’s a communication, planning, and testing tool. Whether you're sketching quick ideas or building a detailed prototype in Figma, wireframes help ensure your product is structured, intuitive, and aligned with user goals.
 
 ---
+
 
 > ✅ GitHub Repository: https://github.com/ami798/wireframing
